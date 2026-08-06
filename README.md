@@ -76,7 +76,7 @@ This repository is intended for:
 If you find mistakes, have suggestions, or would like to improve the repository, feel free to open an issue or submit a pull request. Contributions are always welcome.
 
 ## Notion Link
-https://steady-kryptops-64f.notion.site/40-Days-of-JS-Daily-Learning-Plan-9cfd252b2a25838ab4120199e88749e0
+https://app.notion.com/p/40-Days-of-JS-Daily-Learning-Plan-9cfd252b2a25838ab4120199e88749e0?source=copy_link
 
 ## Support
 
